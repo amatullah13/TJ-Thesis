@@ -1,0 +1,72 @@
+
+-------------------------------------------------------------------------------
+variable name   variable label
+-------------------------------------------------------------------------------
+
+country         Country Name
+year            Year
+year2           Year since 1980
+cowid           COW State Identification Number
+unreg           UNSD Regional Division
+unsubreg        UNSD Sub-Regional Division
+ainew           Political Terror Scale (AI-Revised)
+ailag           Political Terror Scale (AI-Revised) (lagged)
+sdnew           Political Terror Scale (SD-Revised)
+sdlag           Political Terror Scale (SD-Revised) (lagged)
+physint         Revised CIRI Physical Integrity Index
+physlag         Revised CIRI Physical Integrity Index (lagged)
+polity2         Polity Score
+religion        Religion (50% or more poulations)
+legbrit         British Common Law Tradition
+lpop            Population (logged)
+popchang        Annual Rate of Population Change (%)
+lgdppc          GDP per capita (logged)
+gdpgrth         Annual GDP Growth Rate(%)
+t2iwar          International Conflict
+t3cwar          Civil Conflict
+inthrcom        Commitment to International Human Rights Treaties
+nhrngo2         Number of Domestic Human Rights NGOs
+lhrngo2         Number of Domestic Human Rights NGOs (logged)
+demotran        Democratic Transition
+sfcwtran        Civil War Transition
+
+trt             Human Rights Prosecutions
+etrt            Human Rights Prosecution Experience
+regetrt         Number of Regional Trial Precedents (TRT)
+
+ctrt            Cumulative Country Prosecution Years
+lctrt           Cumulative Country Prosecution Years (logged)
+regctrt         Number of Regional Trial Precedents (CTRT)
+reglctrt        Number of Regional Trial Precedents (CTRT) (logged)
+
+tc              Truth Commission
+etc             Truth Commission Experiebce
+
+reg2prec        Regional Trial Precendents
+
+
+rg1             Africa
+rg2             Oceania
+rg3             Asia
+rg4             Europe
+rg5             Latin America and the Caribbean
+
+psl1            physlag=0
+psl2            physlag=1
+psl3            physlag=2
+psl4            physlag=3
+psl5            physlag=4
+psl6            physlag=5
+psl7            physlag=6
+psl8            physlag=7
+psl9            physlag=8
+
+cwXetrt         Civil War * ETRT
+cwXetc          Civil War * ETC
+cwXlctrt        Civil War * LCTRT
+sf              Transition from Civil War
+sfXetrt         Civil War Transition * ETRT
+sfXetc          Civil War Transition * ETC
+sfXlctrt        Civil War Transition * LCTRT
+
+-------------------------------------------------------------------------------
